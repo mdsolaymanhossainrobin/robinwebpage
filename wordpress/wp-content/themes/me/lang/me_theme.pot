@@ -1,0 +1,1334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Me v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-18 15:20+0100\n"
+"PO-Revision-Date: 2012-04-18 15:20+0100\n"
+"Last-Translator: Mark <info@magna-themes.com>\n"
+"Language-Team: MagnaThemes <info@magna-themes.com>\n"
+"MIME-Version: 1.0\n"
+
+
+#: ../comments.php:2
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:33
+msgid "edit"
+msgstr ""
+
+#: ../comments.php:57
+msgid "comments"
+msgstr ""
+
+#: ../comments.php:85
+msgid "leave a reply"
+msgstr ""
+
+#: ../comments.php:97
+msgid "You must be  logged in to post a comment."
+msgstr ""
+
+#: ../comments.php:103
+msgid "Log out »"
+msgstr ""
+
+#: ../comments.php:112
+#: ../js_settings.php:188
+msgid "WEBSITE (optional)"
+msgstr ""
+
+#: ../comments.php:118
+msgid "Go"
+msgstr ""
+
+#: ../index.php:13
+#: ../page.php:23
+msgid "Not Found"
+msgstr ""
+
+#: ../index.php:16
+#: ../page.php:26
+msgid "Sorry, but there are no results for the requested archive."
+msgstr ""
+
+#: ../index.php:55
+#: ../single.php:43
+msgid "Leave a comment"
+msgstr ""
+
+#: ../index.php:55
+#: ../single.php:43
+msgid "1 Comment"
+msgstr ""
+
+#: ../index.php:55
+#: ../single.php:43
+msgid "% Comments"
+msgstr ""
+
+#: ../js_settings.php:119
+msgid "Older posts"
+msgstr ""
+
+#: ../js_settings.php:120
+msgid "Newer posts"
+msgstr ""
+
+#: ../js_settings.php:211
+msgid "Go to..."
+msgstr ""
+
+#: ../searchform.php:4
+msgid "GO"
+msgstr ""
+
+#: ../template-contact.php:49
+msgid "Address:"
+msgstr ""
+
+#: ../template-contact.php:53
+msgid "Phone:"
+msgstr ""
+
+#: ../template-contact.php:57
+msgid "Email:"
+msgstr ""
+
+#: ../lib/admin/theme_settings.php:7
+msgid "Theme settings"
+msgstr ""
+
+#: ../lib/admin/theme_settings.php:9
+msgid "Edit styles"
+msgstr ""
+
+#: ../lib/admin/theme_settings.php:9
+#: ../lib/admin/contact_settings/tabs.php:12
+msgid "Styling"
+msgstr ""
+
+#: ../lib/admin/theme_settings.php:11
+#: ../lib/admin/contact_settings/tabs.php:16
+msgid "Contact settings"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_field_callbacks.php:85
+msgid "Choose color"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:14
+msgid "Save Changes"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:65
+msgid "Contact information"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:66
+msgid "Contact form settings"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:67
+msgid "Social media"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:72
+msgid "Your email address"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:73
+msgid "Additional information"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:74
+msgid "Address"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:75
+msgid "Your telephone number"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:77
+msgid "Name label"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:78
+msgid "Email label"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:79
+msgid "Message label"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:80
+msgid "Send button label"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:82
+msgid "Missing name warning"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:83
+msgid "Missing email warning"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:84
+msgid "Invalid email warning"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:85
+msgid "Missing message warning"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:86
+msgid "Error message color"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:87
+msgid "Email subject"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:88
+msgid "Thank you message"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:90
+msgid "Facebook page url"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:91
+msgid "Facebook icon tooltip"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:92
+msgid "Twitter url"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:93
+msgid "Twitter icon tooltip"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:94
+msgid "Rss url"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:95
+msgid "Rss icon tooltip"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:96
+msgid "Dribble profile url"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:97
+msgid "Dribble icon tooltip"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:98
+msgid "Skype address"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:99
+msgid "Skype icon tooltip"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:100
+msgid "Youtube channel"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:101
+msgid "Youtube icon tooltip"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:102
+msgid "Vimeo channel"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:103
+msgid "Vimeo icon tooltip"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:104
+msgid "LinkedIn profile url"
+msgstr ""
+
+#: ../lib/admin/contact_settings/contact_settings.php:105
+msgid "LinkedIn icon tooltip"
+msgstr ""
+
+#: ../lib/admin/contact_settings/tabs.php:7
+msgid "General settings"
+msgstr ""
+
+#: ../lib/admin/custom_avatar/custom_avatar.php:7
+msgid "Custom avatar"
+msgstr ""
+
+#: ../lib/admin/custom_avatar/custom_avatar.php:11
+msgid "Custom avatar url"
+msgstr ""
+
+#: ../lib/admin/custom_avatar/custom_avatar.php:15
+msgid "Select image"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:62
+msgid "in pixels"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:70
+#: ../lib/admin/general_settings/general_field_callbacks.php:85
+#: ../lib/admin/general_settings/general_field_callbacks.php:93
+#: ../lib/admin/general_settings/general_field_callbacks.php:104
+#: ../lib/admin/general_settings/general_field_callbacks.php:115
+#: ../lib/admin/general_settings/general_field_callbacks.php:126
+msgid "Select Image"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:97
+msgid "Touch icon for iPhone and iPod touch. Recommended resolution is 57x57 pixels."
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:108
+msgid "Touch icon for iPad. Recommended resolution is 72x72 pixels."
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:119
+msgid "Touch icon for high-resolution iPhone and iPod touch. Recommended resolution is 114x114 pixels."
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:130
+msgid "Touch icon for high-resolution iPad. Recommended resolution is 144x144 pixels."
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:139
+msgid "Enable this option, if you would like to use more than one pages on your website."
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:184
+msgid "our work"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:210
+msgid "services"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:223
+msgid "about me"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_field_callbacks.php:236
+msgid "contact"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:63
+msgid "Logo settings"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:64
+msgid "Multipage navigation"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:65
+msgid "Introduction text"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:66
+msgid "Disable sections on the homepage"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:67
+msgid "Section specific settings"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:68
+msgid "Google Analyitics"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:73
+msgid "Distance from the top"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:74
+msgid "Your logo"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:75
+msgid "Logo alt text"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:76
+msgid "Shortcut icon"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:77
+msgid "Touch icon 1"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:78
+msgid "Touch icon 2"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:79
+msgid "Touch icon 3"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:80
+msgid "Touch icon 4"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:82
+msgid "Allow multipage navigation"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:84
+msgid "Here you can add an introduction to your site"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:86
+msgid "Disable slider"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:87
+msgid "Disable portfolio"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:88
+msgid "Disable services"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:89
+msgid "Disable about"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:90
+msgid "Disable contact"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:92
+msgid "Portfolio section title"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:93
+msgid "Portfolio \"i\" button tooltip"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:94
+msgid "Portfolio link button tooltip"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:95
+msgid "Services section title"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:96
+msgid "About section title"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:97
+msgid "Contact section title"
+msgstr ""
+
+#: ../lib/admin/general_settings/general_settings.php:99
+msgid "Paste your analyitics tracking code into this textarea"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_fields_callbacks.php:624
+msgid "Inherited from the headings by default."
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:54
+msgid "Body font"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:55
+msgid "Body font size"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:56
+msgid "Body font color"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:57
+msgid "Link color"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:58
+msgid "Menu font"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:59
+msgid "Menu font size"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:60
+msgid "Menu font color"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:61
+msgid "Hidden menu background"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:62
+msgid "Hidden menu font color"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:63
+msgid "Background color"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:64
+msgid "Line color"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:65
+msgid "Heading font"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:66
+msgid "Heading font color"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:67
+msgid "Intro text font"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:68
+msgid "Intro text font size"
+msgstr ""
+
+#: ../lib/admin/style_settings/style_settings.php:69
+msgid "Page title font"
+msgstr ""
+
+#: ../lib/home_sections/contact_section.php:41
+msgid "OK"
+msgstr ""
+
+#: ../lib/misc/about.php:6
+#: ../lib/misc/about.php:7
+msgid "About"
+msgstr ""
+
+#: ../lib/misc/about.php:9
+#: ../lib/misc/about.php:39
+#: ../lib/misc/about.php:45
+msgid "about"
+msgstr ""
+
+#: ../lib/misc/about.php:12
+msgid "Add New Person"
+msgstr ""
+
+#: ../lib/misc/about.php:13
+msgid "Edit Person"
+msgstr ""
+
+#: ../lib/misc/about.php:14
+msgid "New Person"
+msgstr ""
+
+#: ../lib/misc/about.php:15
+msgid "Preview About Section"
+msgstr ""
+
+#: ../lib/misc/about.php:16
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../lib/misc/about.php:17
+msgid "No Persons Found"
+msgstr ""
+
+#: ../lib/misc/about.php:18
+msgid "No Persons Found In Trash"
+msgstr ""
+
+#: ../lib/misc/about.php:48
+msgid "Informations Updated."
+msgstr ""
+
+#: ../lib/misc/about.php:49
+msgid "Custom Field Updated."
+msgstr ""
+
+#: ../lib/misc/about.php:50
+msgid "Custom Field Deleted."
+msgstr ""
+
+#: ../lib/misc/about.php:51
+msgid "About Page Updated."
+msgstr ""
+
+#: ../lib/misc/about.php:52
+#, php-format
+msgid "Person Restored To Revision From %s"
+msgstr ""
+
+#: ../lib/misc/about.php:53
+msgid "About Information Published."
+msgstr ""
+
+#: ../lib/misc/about.php:54
+msgid "About Information Saved."
+msgstr ""
+
+#: ../lib/misc/about.php:55
+msgid "About Information Submitted."
+msgstr ""
+
+#: ../lib/misc/about.php:56
+#, php-format
+msgid "About Information Scheduled For: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../lib/misc/about.php:56
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../lib/misc/about.php:57
+msgid "About Information Draft Updated."
+msgstr ""
+
+#: ../lib/misc/about.php:76
+msgid "Title (short intro)"
+msgstr ""
+
+#: ../lib/misc/about.php:77
+msgid "Profile picture"
+msgstr ""
+
+#: ../lib/misc/single_template_metabox.php:7
+msgid "Select page template"
+msgstr ""
+
+#: ../lib/misc/single_template_metabox.php:24
+#: ../lib/misc/single_template_metabox.php:38
+#: ../lib/misc/single_template_metabox.php:51
+msgid "Post with sidebar"
+msgstr ""
+
+#: ../lib/misc/single_template_metabox.php:27
+#: ../lib/misc/single_template_metabox.php:35
+#: ../lib/misc/single_template_metabox.php:48
+msgid "Post without sidebar"
+msgstr ""
+
+#: ../lib/misc/widgets.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: ../lib/misc/widgets.php:24
+msgid "Use this widget, if you would like to display your latest Flickr photos in the sidebar."
+msgstr ""
+
+#: ../lib/misc/widgets.php:26
+msgid "Flickr photos"
+msgstr ""
+
+#: ../lib/misc/widgets.php:42
+msgid "Title:"
+msgstr ""
+
+#: ../lib/misc/widgets.php:47
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../lib/misc/widgets.php:52
+msgid "# of photos:"
+msgstr ""
+
+#: ../lib/misc/widgets.php:57
+msgid "Display:"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:7
+#: ../lib/portfolio/portfolio.php:8
+msgid "Portfolio"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:10
+#: ../lib/portfolio/portfolio.php:40
+#: ../lib/portfolio/portfolio.php:47
+#: ../lib/portfolio/portfolio.php:70
+msgid "portfolio"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:12
+msgid "Add Item"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:13
+msgid "Add New Item"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:14
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:15
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:16
+msgid "Preview item"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:18
+msgid "No Portfolio Items Found"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:19
+msgid "No Portfolio Items Found In Trash"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:50
+#, php-format
+msgid "Portfolio Updated. <a href=\"%s\">View portfolio</a>"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:53
+msgid "Portfolio Updated."
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:54
+#, php-format
+msgid "Portfolio Restored To Revision From %s"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:55
+#, php-format
+msgid "Portfolio Published. <a href=\"%s\">View Portfolio</a>"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:56
+msgid "Portfolio Saved."
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:57
+#, php-format
+msgid "Portfolio Submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:58
+#, php-format
+msgid "Portfolio Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Portfolio</a>"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:59
+#, php-format
+msgid "Portfolio Draft Updated. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:69
+msgid "filter"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:73
+msgid "Categories"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:74
+msgid "Filter"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:96
+msgid "Project name"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:97
+msgid "Category"
+msgstr ""
+
+#: ../lib/portfolio/portfolio.php:98
+msgid "Thumbnail"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:7
+msgid "Add more content to the item"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:20
+msgid "Repeatable"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:21
+msgid "A description for the field."
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:22
+msgid "repeatable"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:26
+#: ../lib/shortcodes/tinymce.php:46
+msgid "Vimeo video"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:27
+msgid "Vimeo embed code"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:32
+#: ../lib/shortcodes/tinymce.php:40
+msgid "Youtube video"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:33
+msgid "Youtube embed code"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:38
+#: ../lib/portfolio/portfolio_metaboxes.php:39
+msgid "Link to the project"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:62
+msgid "Slider images"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:65
+msgid "Add new image"
+msgstr ""
+
+#: ../lib/portfolio/portfolio_metaboxes.php:79
+#: ../lib/portfolio/portfolio_metaboxes.php:93
+msgid "Remove image"
+msgstr ""
+
+#: ../lib/services/description_metabox.php:7
+#: ../lib/services/services.php:67
+msgid "Description"
+msgstr ""
+
+#: ../lib/services/services.php:6
+#: ../lib/services/services.php:7
+msgid "Services"
+msgstr ""
+
+#: ../lib/services/services.php:9
+#: ../lib/services/services.php:38
+#: ../lib/services/services.php:44
+msgid "service"
+msgstr ""
+
+#: ../lib/services/services.php:11
+msgid "Add Service"
+msgstr ""
+
+#: ../lib/services/services.php:12
+msgid "Add New Service"
+msgstr ""
+
+#: ../lib/services/services.php:13
+msgid "Edit Service"
+msgstr ""
+
+#: ../lib/services/services.php:14
+msgid "New Service"
+msgstr ""
+
+#: ../lib/services/services.php:15
+msgid "Preview Services Section"
+msgstr ""
+
+#: ../lib/services/services.php:16
+msgid "Search Services"
+msgstr ""
+
+#: ../lib/services/services.php:17
+msgid "No Services Found"
+msgstr ""
+
+#: ../lib/services/services.php:18
+msgid "No Services Found In Trash"
+msgstr ""
+
+#: ../lib/services/services.php:47
+msgid "Service Updated."
+msgstr ""
+
+#: ../lib/services/services.php:50
+msgid "Services Updated."
+msgstr ""
+
+#: ../lib/services/services.php:51
+#, php-format
+msgid "Service Restored To Revision From %s"
+msgstr ""
+
+#: ../lib/services/services.php:52
+msgid "Service Information Published."
+msgstr ""
+
+#: ../lib/services/services.php:53
+msgid "Service Information Saved."
+msgstr ""
+
+#: ../lib/services/services.php:54
+msgid "Service Information Submitted."
+msgstr ""
+
+#: ../lib/services/services.php:55
+#, php-format
+msgid "Service Information Scheduled For: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../lib/services/services.php:56
+msgid "Service Information Draft Updated."
+msgstr ""
+
+#: ../lib/services/services.php:66
+msgid "Service name"
+msgstr ""
+
+#: ../lib/services/services_intro.php:5
+msgid "Intro text"
+msgstr ""
+
+#: ../lib/services/services_intro.php:5
+#: ../lib/services/services_intro.php:41
+msgid "Overall description"
+msgstr ""
+
+#: ../lib/services/services_intro.php:46
+msgid "You can write an overall description about all of your services. This text will be shown under the page title."
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:24
+msgid "Shortcodes"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:35
+msgid "Image frame"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:36
+msgid "Image frame with title"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:37
+msgid "Image frame witht title and description"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:41
+msgid "Youtube video frame"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:42
+msgid "Youtube video frame with title"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:43
+msgid "Youtube video frame with title and description"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:47
+msgid "Vimeo video frame"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:48
+msgid "Vimeo video frame with title"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:49
+msgid "Vimeo video frame with title and description"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:52
+msgid "Check"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:53
+msgid "Remove"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:54
+#: ../lib/slider/slider.php:65
+msgid "Settings"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:55
+msgid "User"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:56
+msgid "Add"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:57
+msgid "Undo"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:58
+msgid "Redo"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:59
+msgid "Speech bubble"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:60
+msgid "Attention"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:61
+msgid "Telephone"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:62
+msgid "Lock"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:63
+msgid "Mail"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:66
+msgid "h1"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:67
+msgid "h2"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:68
+msgid "h3"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:69
+msgid "h4"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:70
+msgid "h5"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:71
+msgid "h6"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:74
+msgid "1/1"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:75
+msgid "1/2"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:76
+msgid "1/2 last"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:77
+msgid "1/3"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:78
+msgid "1/3 last"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:79
+msgid "2/3"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:80
+msgid "2/3 last"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:81
+msgid "1/4"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:82
+msgid "1/4 last"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:83
+msgid "2/4"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:84
+msgid "2/4 last"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:85
+msgid "3/4"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:86
+msgid "3/4 last"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:87
+msgid "1/5"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:88
+msgid "1/5 last"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:89
+msgid "2/5"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:90
+msgid "2/5 last"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:91
+msgid "3/5"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:92
+msgid "3/5 last"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:93
+msgid "4/5"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:94
+msgid "4/5 last"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce.php:100
+msgid "Insert"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce_lang.php:5
+msgid "The full path to the image"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce_lang.php:6
+msgid "Image title"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce_lang.php:7
+msgid "Image description"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce_lang.php:8
+msgid "Video id"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce_lang.php:9
+msgid "Video title"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce_lang.php:10
+msgid "Video description"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce_lang.php:11
+msgid "Item"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce_lang.php:12
+msgid "Insert your text here"
+msgstr ""
+
+#: ../lib/shortcodes/tinymce_lang.php:13
+msgid "Insert your content here"
+msgstr ""
+
+#: ../lib/slider/slider.php:7
+msgid "Slider"
+msgstr ""
+
+#: ../lib/slider/slider.php:8
+#: ../lib/slider/slider.php:10
+#: ../lib/slider/slider.php:37
+#: ../lib/slider/slider.php:44
+msgid "me_slider"
+msgstr ""
+
+#: ../lib/slider/slider.php:12
+msgid "Add Slide"
+msgstr ""
+
+#: ../lib/slider/slider.php:13
+msgid "Add New Slide"
+msgstr ""
+
+#: ../lib/slider/slider.php:14
+msgid "Edit Slide"
+msgstr ""
+
+#: ../lib/slider/slider.php:15
+msgid "New Slide"
+msgstr ""
+
+#: ../lib/slider/slider.php:16
+msgid "Preview Slider"
+msgstr ""
+
+#: ../lib/slider/slider.php:17
+msgid "No Slides Found"
+msgstr ""
+
+#: ../lib/slider/slider.php:18
+msgid "No Slides Found In Trash"
+msgstr ""
+
+#: ../lib/slider/slider.php:47
+#: ../lib/slider/slider.php:50
+msgid "Slider Updated."
+msgstr ""
+
+#: ../lib/slider/slider.php:51
+#, php-format
+msgid "Slide Restored To Revision From %s"
+msgstr ""
+
+#: ../lib/slider/slider.php:52
+msgid "Slide Published."
+msgstr ""
+
+#: ../lib/slider/slider.php:53
+msgid "Slide Saved."
+msgstr ""
+
+#: ../lib/slider/slider.php:54
+msgid "Slide Submitted."
+msgstr ""
+
+#: ../lib/slider/slider.php:55
+#, php-format
+msgid "Slide Scheduled For: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../lib/slider/slider.php:56
+msgid "Slide Draft Updated."
+msgstr ""
+
+#: ../lib/slider/slider.php:65
+#: ../lib/slider/slider_settings.php:44
+msgid "Slider settings"
+msgstr ""
+
+#: ../lib/slider/slider.php:82
+msgid "Slide title"
+msgstr ""
+
+#: ../lib/slider/slider.php:83
+msgid "Preview image"
+msgstr ""
+
+#: ../lib/slider/slider_field_callbacks.php:9
+#: ../lib/slider/slider_field_callbacks.php:26
+msgid "Slide"
+msgstr ""
+
+#: ../lib/slider/slider_field_callbacks.php:12
+#: ../lib/slider/slider_field_callbacks.php:21
+msgid "Fade"
+msgstr ""
+
+#: ../lib/slider/slider_field_callbacks.php:40
+msgid "Horizontal"
+msgstr ""
+
+#: ../lib/slider/slider_field_callbacks.php:43
+msgid "Vertical"
+msgstr ""
+
+#: ../lib/slider/slider_field_callbacks.php:55
+#: ../lib/slider/slider_field_callbacks.php:67
+#: ../lib/slider/slider_field_callbacks.php:119
+#: ../lib/slider/slider_field_callbacks.php:131
+#: ../lib/slider/slider_field_callbacks.php:148
+#: ../lib/slider/slider_field_callbacks.php:160
+#: ../lib/slider/slider_field_callbacks.php:180
+#: ../lib/slider/slider_field_callbacks.php:192
+#: ../lib/slider/slider_field_callbacks.php:209
+#: ../lib/slider/slider_field_callbacks.php:221
+#: ../lib/slider/slider_field_callbacks.php:238
+#: ../lib/slider/slider_field_callbacks.php:250
+msgid "true"
+msgstr ""
+
+#: ../lib/slider/slider_field_callbacks.php:58
+#: ../lib/slider/slider_field_callbacks.php:72
+#: ../lib/slider/slider_field_callbacks.php:122
+#: ../lib/slider/slider_field_callbacks.php:136
+#: ../lib/slider/slider_field_callbacks.php:151
+#: ../lib/slider/slider_field_callbacks.php:165
+#: ../lib/slider/slider_field_callbacks.php:183
+#: ../lib/slider/slider_field_callbacks.php:197
+#: ../lib/slider/slider_field_callbacks.php:212
+#: ../lib/slider/slider_field_callbacks.php:226
+#: ../lib/slider/slider_field_callbacks.php:241
+#: ../lib/slider/slider_field_callbacks.php:255
+msgid "false"
+msgstr ""
+
+#: ../lib/slider/slider_field_callbacks.php:85
+#: ../lib/slider/slider_field_callbacks.php:91
+msgid "Set the speed of the slideshow cycling, in milliseconds"
+msgstr ""
+
+#: ../lib/slider/slider_field_callbacks.php:102
+#: ../lib/slider/slider_field_callbacks.php:108
+msgid "Set the speed of animations, in milliseconds"
+msgstr ""
+
+#: ../lib/slider/slider_field_callbacks.php:171
+msgid "Create navigation for paging control of each clide?"
+msgstr ""
+
+#: ../lib/slider/slider_field_callbacks.php:267
+#: ../lib/slider/slider_field_callbacks.php:273
+msgid "The slide that the slider should start on. 0 = first slide."
+msgstr ""
+
+#: ../lib/slider/slider_metaboxes.php:7
+msgid "Link (optional)"
+msgstr ""
+
+#: ../lib/slider/slider_metaboxes.php:8
+msgid "Caption (optional)"
+msgstr ""
+
+#: ../lib/slider/slider_settings.php:49
+msgid "Select your animation type"
+msgstr ""
+
+#: ../lib/slider/slider_settings.php:50
+msgid "Select the sliding direction"
+msgstr ""
+
+#: ../lib/slider/slider_settings.php:51
+msgid "Animate slider automatically"
+msgstr ""
+
+#: ../lib/slider/slider_settings.php:52
+#: ../lib/slider/slider_settings.php:53
+msgid "Slideshow speed"
+msgstr ""
+
+#: ../lib/slider/slider_settings.php:54
+msgid "Allow Prev/Next buttons?"
+msgstr ""
+
+#: ../lib/slider/slider_settings.php:55
+msgid "ControlNav?"
+msgstr ""
+
+#: ../lib/slider/slider_settings.php:56
+msgid "Allow keyboard navigation?"
+msgstr ""
+
+#: ../lib/slider/slider_settings.php:57
+msgid "Allow mousewheel navigation?"
+msgstr ""
+
+#: ../lib/slider/slider_settings.php:58
+msgid "Randomize slide order?"
+msgstr ""
+
+#: ../lib/slider/slider_settings.php:59
+msgid "Slide to start"
+msgstr ""
+
